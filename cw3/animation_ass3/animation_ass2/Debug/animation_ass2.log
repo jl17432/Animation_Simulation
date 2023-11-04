@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(animation_ass2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  animation_ass3.cpp
+C:\Users\phili\Desktop\ani_ass3\animation_ass3\animation_ass2\animation_ass3.cpp(117,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\phili\Desktop\ani_ass3\animation_ass3\animation_ass2\animation_ass3.cpp(122,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\phili\Desktop\ani_ass3\animation_ass3\animation_ass2\animation_ass3.cpp(144,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\phili\Desktop\ani_ass3\animation_ass3\animation_ass2\animation_ass3.cpp(184,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\phili\Desktop\ani_ass3\animation_ass3\animation_ass2\animation_ass3.cpp(492,23): warning C4018: “<”: 有符号/无符号不匹配
+  animation_ass2.vcxproj -> C:\Users\phili\Desktop\ani_ass3\animation_ass3\Debug\animation_ass3.exe
